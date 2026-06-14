@@ -1,8 +1,1 @@
-pull_request_rules:
-  - name: bug bounty test - no action
-    conditions:
-      - author=xlim398
-    actions:
-      label:
-        add:
-          - mergify-bb-test
+extends: bb-mergify-private-autoretry-1781443000
