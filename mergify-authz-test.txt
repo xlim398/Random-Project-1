@@ -1,0 +1,1 @@
+Mergify bug bounty authorization test 1781435940
